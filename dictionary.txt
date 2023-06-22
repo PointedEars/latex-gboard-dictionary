@@ -1147,8 +1147,6 @@ _rp	₎
 \nvdash	⊬	
 \vDash	⊨	
 \nvDash	⊭	
-\swastika	卐	
-\revSwastika	卍	
 \imath	𝚤	
 i	𝚤	
 \mathbb0	𝟘	
